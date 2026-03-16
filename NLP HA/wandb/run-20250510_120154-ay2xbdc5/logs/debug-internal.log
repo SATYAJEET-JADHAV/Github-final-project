@@ -1,0 +1,21 @@
+{"time":"2025-05-10T12:01:54.4772822+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\satya\\OneDrive\\Desktop\\coding\\NLP HA\\wandb\\run-20250510_120154-ay2xbdc5\\logs\\debug-core.log"}
+{"time":"2025-05-10T12:01:55.3369977+05:30","level":"INFO","msg":"created new stream","id":"ay2xbdc5"}
+{"time":"2025-05-10T12:01:55.3376054+05:30","level":"INFO","msg":"stream: started","id":"ay2xbdc5"}
+{"time":"2025-05-10T12:01:55.3381226+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ay2xbdc5"}
+{"time":"2025-05-10T12:01:55.3381226+05:30","level":"INFO","msg":"sender: started","stream_id":"ay2xbdc5"}
+{"time":"2025-05-10T12:01:55.3376054+05:30","level":"INFO","msg":"handler: started","stream_id":"ay2xbdc5"}
+{"time":"2025-05-10T12:01:55.754455+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-10T12:01:55.9869604+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-10T12:03:23.783251+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-10T12:03:23.8014708+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-10T12:03:23.9373963+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-10T12:03:23.9471611+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-10T12:03:25.3171029+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-10T12:03:25.3171029+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-10T12:03:26.3205178+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ay2xbdc5-FinancialSentimentAnalysisTable","runtime_seconds":1.7438086,"subtasks":[{"desc":"Financial Sentiment Analysis Table.table.json","runtime_seconds":0.2148853,"progress":"393.6KB/393.6KB"}]},{"desc":"uploading media\\table\\Financial Sentiment Analysis Table_0_deb4b9dc5670b322b9ab.table.json","runtime_seconds":1.3062113,"progress":"392.9KB/392.9KB"},{"desc":"uploading output.log","runtime_seconds":0.2041964},{"desc":"uploading wandb-summary.json","runtime_seconds":0.2041964,"progress":"802B/802B"}],"total_operations":4}}
+{"time":"2025-05-10T12:03:29.3849494+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-10T12:03:29.8546436+05:30","level":"INFO","msg":"stream: closing","id":"ay2xbdc5"}
+{"time":"2025-05-10T12:03:29.8546436+05:30","level":"INFO","msg":"sender: closed","stream_id":"ay2xbdc5"}
+{"time":"2025-05-10T12:03:29.8553948+05:30","level":"INFO","msg":"handler: closed","stream_id":"ay2xbdc5"}
+{"time":"2025-05-10T12:03:29.8553948+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ay2xbdc5"}
+{"time":"2025-05-10T12:03:29.8553948+05:30","level":"INFO","msg":"stream: closed","id":"ay2xbdc5"}

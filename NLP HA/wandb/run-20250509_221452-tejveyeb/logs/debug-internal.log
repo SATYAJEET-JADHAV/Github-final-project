@@ -1,0 +1,19 @@
+{"time":"2025-05-09T22:14:52.2717847+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"c:\\Users\\satya\\OneDrive\\Desktop\\coding\\NLP HA\\wandb\\run-20250509_221452-tejveyeb\\logs\\debug-core.log"}
+{"time":"2025-05-09T22:14:52.8904599+05:30","level":"INFO","msg":"created new stream","id":"tejveyeb"}
+{"time":"2025-05-09T22:14:52.8904599+05:30","level":"INFO","msg":"handler: started","stream_id":"tejveyeb"}
+{"time":"2025-05-09T22:14:52.8911038+05:30","level":"INFO","msg":"stream: started","id":"tejveyeb"}
+{"time":"2025-05-09T22:14:52.8911038+05:30","level":"INFO","msg":"sender: started","stream_id":"tejveyeb"}
+{"time":"2025-05-09T22:14:52.8911038+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tejveyeb"}
+{"time":"2025-05-09T22:14:55.4074332+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-09T22:14:55.5225407+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-09T22:16:35.3863888+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-09T22:16:35.4371034+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-09T22:16:37.323228+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-09T22:16:37.3241505+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-09T22:16:38.3602085+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-tejveyeb-FinancialSentimentAnalysisTable","runtime_seconds":2.0459153},{"desc":"uploading media\\table\\Financial Sentiment Analysis Table_0_deb4b9dc5670b322b9ab.table.json","runtime_seconds":1.5675183000000001,"progress":"304.0KB/392.9KB"},{"desc":"uploading summary","runtime_seconds":1.0481475},{"desc":"updating run config","runtime_seconds":0.344115}],"total_operations":4}}
+{"time":"2025-05-09T22:16:44.9694088+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-09T22:16:45.4674714+05:30","level":"INFO","msg":"stream: closing","id":"tejveyeb"}
+{"time":"2025-05-09T22:16:45.4680413+05:30","level":"INFO","msg":"handler: closed","stream_id":"tejveyeb"}
+{"time":"2025-05-09T22:16:45.4680413+05:30","level":"INFO","msg":"sender: closed","stream_id":"tejveyeb"}
+{"time":"2025-05-09T22:16:45.4680413+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"tejveyeb"}
+{"time":"2025-05-09T22:16:45.4688171+05:30","level":"INFO","msg":"stream: closed","id":"tejveyeb"}
